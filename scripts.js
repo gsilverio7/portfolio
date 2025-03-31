@@ -63,8 +63,8 @@ document.addEventListener("DOMContentLoaded", function () {
     };
 
     const title = {
-        pt: "Desenvolvedor Web Full Stack",
-        en: "Full Stack Web Developer"
+        pt: "Desenvolvedor Full Stack",
+        en: "Full Stack Developer"
     };
 
     // Function to update text content based on the selected language
